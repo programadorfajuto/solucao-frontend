@@ -1,0 +1,9 @@
+﻿.btn-danger {
+    -webkit-transition: all .2s;
+    transition: all .2s;
+}
+
+.nav-item .nav-link.router-link-exact-active.router-link-active{
+    background: #e02e4f !important;
+    color: white !important;
+}
